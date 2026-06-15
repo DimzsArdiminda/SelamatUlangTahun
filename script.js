@@ -155,11 +155,11 @@ const _slideEnam = function () {
 
 new TypeIt("#teks1", {
   strings: [
-    "Haii, maaf yaa karena ucapan ini datang sedikit telat 😅",
-    "Tapi aku tetap nggak mau melewatkan kesempatan buat ngucapin sesuatu untuk kamu.",
-    "Selamat bertambah usiaa! 🎉",
-    "Semoga di umur yang baru ini kamu selalu diberikan kesehatan, kebahagiaan, dan banyak hal baik lainnya.",
-    "Semoga semua hal yang sedang kamu usahakan bisa berjalan lancar dan membawa hasil yang terbaik."
+    "I'm a little late, I know 😅",
+    "But I couldn't let the chance pass without wishing you a Happy Birthday.",
+    "I hope this year brings you more happiness, exciting opportunities, and fewer sleepless nights before deadlines.",
+    "May every step you take lead you closer to the future you've been working so hard for.",
+    "And may life always treat you kindly, no matter where your journey takes you."
   ],
   startDelay: 4000,
   speed: 75,
@@ -168,12 +168,13 @@ new TypeIt("#teks1", {
 
 new TypeIt("#teks2", {
   strings: [
-    "Mungkin ucapan ini datang terlambat, tapi doa baiknya nggak pernah telat kok ✨",
+    "Maybe it's because you're a Chemical Engineering student,",
+    "but somehow every conversation with you leaves a lasting reaction. 🧪",
+    "I hope your happiness keeps increasing exponentially,",
+    "your problems evaporate faster than a distillation process,",
+    "and your future reaches the perfect equilibrium between success and peace.",
     " ",
-    "Terima kasih karena sudah bertahan sejauh ini dan melewati banyak hal hebat maupun sulit.",
-    "Semoga tahun ini membawa lebih banyak tawa, cerita indah, dan orang-orang baik di sekitarmu.",
-    " ",
-    "Happy Belated Birthday! 🎂🎈"
+    "Happy Belated Birthday ✨"
   ],
   startDelay: 2000,
   speed: 75,
